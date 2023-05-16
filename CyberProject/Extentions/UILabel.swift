@@ -5,7 +5,6 @@
 //  Created by Amir Zhunussov on 29.04.2023.
 //
 
-import Foundation
 import UIKit
 
 extension UILabel {
@@ -18,5 +17,4 @@ extension UILabel {
         }()
         return label
     }
-    
 }

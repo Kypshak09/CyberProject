@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2524CE872A133DB800C8F414 /* UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2524CE862A133DB800C8F414 /* UITextField.swift */; };
+		2524CE892A139C5100C8F414 /* UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2524CE882A139C5100C8F414 /* UIButton.swift */; };
+		2524CE8C2A13A18200C8F414 /* PhishingChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2524CE8B2A13A18200C8F414 /* PhishingChecker.swift */; };
 		258FA7D529FC4292002A0EE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FA7D429FC4292002A0EE0 /* AppDelegate.swift */; };
 		258FA7D729FC4292002A0EE0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FA7D629FC4292002A0EE0 /* SceneDelegate.swift */; };
 		258FA7D929FC4292002A0EE0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FA7D829FC4292002A0EE0 /* ViewController.swift */; };
@@ -21,6 +24,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2524CE862A133DB800C8F414 /* UITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextField.swift; sourceTree = "<group>"; };
+		2524CE882A139C5100C8F414 /* UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButton.swift; sourceTree = "<group>"; };
+		2524CE8B2A13A18200C8F414 /* PhishingChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhishingChecker.swift; sourceTree = "<group>"; };
 		258FA7D129FC4292002A0EE0 /* CyberProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CyberProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		258FA7D429FC4292002A0EE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		258FA7D629FC4292002A0EE0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -47,6 +53,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2524CE8A2A13A16E00C8F414 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				2524CE8B2A13A18200C8F414 /* PhishingChecker.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 		258FA7C829FC4292002A0EE0 = {
 			isa = PBXGroup;
 			children = (
@@ -66,6 +80,7 @@
 		258FA7D329FC4292002A0EE0 /* CyberProject */ = {
 			isa = PBXGroup;
 			children = (
+				2524CE8A2A13A16E00C8F414 /* Services */,
 				258FA7F129FC4769002A0EE0 /* Controllers */,
 				258FA7EE29FC46CA002A0EE0 /* TabBarViewController */,
 				258FA7EB29FC45A4002A0EE0 /* Extentions */,
@@ -83,6 +98,8 @@
 			isa = PBXGroup;
 			children = (
 				258FA7EC29FC45B4002A0EE0 /* UILabel.swift */,
+				2524CE862A133DB800C8F414 /* UITextField.swift */,
+				2524CE882A139C5100C8F414 /* UIButton.swift */,
 			);
 			path = Extentions;
 			sourceTree = "<group>";
@@ -99,8 +116,8 @@
 			isa = PBXGroup;
 			children = (
 				258FA7F229FC4780002A0EE0 /* PersonalInformationController.swift */,
-				258FA7F429FC47A7002A0EE0 /* PhishingController.swift */,
 				258FA7F629FC47E0002A0EE0 /* PasswordGeneratorController.swift */,
+				258FA7F429FC47A7002A0EE0 /* PhishingController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -181,10 +198,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2524CE8C2A13A18200C8F414 /* PhishingChecker.swift in Sources */,
 				258FA7F329FC4780002A0EE0 /* PersonalInformationController.swift in Sources */,
 				258FA7D929FC4292002A0EE0 /* ViewController.swift in Sources */,
+				2524CE872A133DB800C8F414 /* UITextField.swift in Sources */,
 				258FA7D529FC4292002A0EE0 /* AppDelegate.swift in Sources */,
 				258FA7ED29FC45B4002A0EE0 /* UILabel.swift in Sources */,
+				2524CE892A139C5100C8F414 /* UIButton.swift in Sources */,
 				258FA7F029FC46E3002A0EE0 /* TabBarViewController.swift in Sources */,
 				258FA7D729FC4292002A0EE0 /* SceneDelegate.swift in Sources */,
 				258FA7F729FC47E0002A0EE0 /* PasswordGeneratorController.swift in Sources */,
@@ -332,7 +352,6 @@
 				INFOPLIST_FILE = CyberProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -360,7 +379,6 @@
 				INFOPLIST_FILE = CyberProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
