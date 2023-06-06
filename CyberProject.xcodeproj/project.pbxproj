@@ -10,6 +10,17 @@
 		2524CE872A133DB800C8F414 /* UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2524CE862A133DB800C8F414 /* UITextField.swift */; };
 		2524CE892A139C5100C8F414 /* UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2524CE882A139C5100C8F414 /* UIButton.swift */; };
 		2524CE8C2A13A18200C8F414 /* PhishingChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2524CE8B2A13A18200C8F414 /* PhishingChecker.swift */; };
+		25558C6E2A2E2148006F117E /* SettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25558C6D2A2E2148006F117E /* SettingsViewModel.swift */; };
+		25558C712A2E217F006F117E /* PasswordsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25558C702A2E217F006F117E /* PasswordsViewModel.swift */; };
+		25558C732A2E21E7006F117E /* SavePasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25558C722A2E21E7006F117E /* SavePasswordView.swift */; };
+		25558C752A2E223E006F117E /* StrengthMeterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25558C742A2E223E006F117E /* StrengthMeterView.swift */; };
+		25558C772A2E2296006F117E /* PopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25558C762A2E2296006F117E /* PopView.swift */; };
+		2579F3CA2A2E0B2C0032A276 /* KeychainSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 2579F3C92A2E0B2C0032A276 /* KeychainSwift */; };
+		2579F3CD2A2E0B6B0032A276 /* SwiftUIX in Frameworks */ = {isa = PBXBuildFile; productRef = 2579F3CC2A2E0B6B0032A276 /* SwiftUIX */; };
+		2579F3CF2A2E0B830032A276 /* PasswordGeneratorViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2579F3CE2A2E0B830032A276 /* PasswordGeneratorViewModel.swift */; };
+		2579F3D12A2E0B900032A276 /* PasswordGeneratorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2579F3D02A2E0B900032A276 /* PasswordGeneratorView.swift */; };
+		2579F3D32A2E0BA40032A276 /* TextBindingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2579F3D22A2E0BA40032A276 /* TextBindingManager.swift */; };
+		2579F3D52A2E0BAD0032A276 /* PasswordStrenghtView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2579F3D42A2E0BAD0032A276 /* PasswordStrenghtView.swift */; };
 		258FA7D529FC4292002A0EE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FA7D429FC4292002A0EE0 /* AppDelegate.swift */; };
 		258FA7D729FC4292002A0EE0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FA7D629FC4292002A0EE0 /* SceneDelegate.swift */; };
 		258FA7D929FC4292002A0EE0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FA7D829FC4292002A0EE0 /* ViewController.swift */; };
@@ -27,6 +38,15 @@
 		2524CE862A133DB800C8F414 /* UITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextField.swift; sourceTree = "<group>"; };
 		2524CE882A139C5100C8F414 /* UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButton.swift; sourceTree = "<group>"; };
 		2524CE8B2A13A18200C8F414 /* PhishingChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhishingChecker.swift; sourceTree = "<group>"; };
+		25558C6D2A2E2148006F117E /* SettingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewModel.swift; sourceTree = "<group>"; };
+		25558C702A2E217F006F117E /* PasswordsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordsViewModel.swift; sourceTree = "<group>"; };
+		25558C722A2E21E7006F117E /* SavePasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavePasswordView.swift; sourceTree = "<group>"; };
+		25558C742A2E223E006F117E /* StrengthMeterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrengthMeterView.swift; sourceTree = "<group>"; };
+		25558C762A2E2296006F117E /* PopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopView.swift; sourceTree = "<group>"; };
+		2579F3CE2A2E0B830032A276 /* PasswordGeneratorViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordGeneratorViewModel.swift; sourceTree = "<group>"; };
+		2579F3D02A2E0B900032A276 /* PasswordGeneratorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordGeneratorView.swift; sourceTree = "<group>"; };
+		2579F3D22A2E0BA40032A276 /* TextBindingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBindingManager.swift; sourceTree = "<group>"; };
+		2579F3D42A2E0BAD0032A276 /* PasswordStrenghtView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordStrenghtView.swift; sourceTree = "<group>"; };
 		258FA7D129FC4292002A0EE0 /* CyberProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CyberProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		258FA7D429FC4292002A0EE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		258FA7D629FC4292002A0EE0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -46,6 +66,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2579F3CD2A2E0B6B0032A276 /* SwiftUIX in Frameworks */,
+				2579F3CA2A2E0B2C0032A276 /* KeychainSwift in Frameworks */,
 				258FA7EA29FC4599002A0EE0 /* SnapKit-Dynamic in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -57,8 +79,49 @@
 			isa = PBXGroup;
 			children = (
 				2524CE8B2A13A18200C8F414 /* PhishingChecker.swift */,
+				25558C742A2E223E006F117E /* StrengthMeterView.swift */,
+				25558C762A2E2296006F117E /* PopView.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		25558C6B2A2E2107006F117E /* Generate password */ = {
+			isa = PBXGroup;
+			children = (
+				258FA7F629FC47E0002A0EE0 /* PasswordGeneratorController.swift */,
+				2579F3CE2A2E0B830032A276 /* PasswordGeneratorViewModel.swift */,
+				2579F3D02A2E0B900032A276 /* PasswordGeneratorView.swift */,
+				2579F3D22A2E0BA40032A276 /* TextBindingManager.swift */,
+				2579F3D42A2E0BAD0032A276 /* PasswordStrenghtView.swift */,
+			);
+			path = "Generate password";
+			sourceTree = "<group>";
+		};
+		25558C6C2A2E211B006F117E /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				25558C6D2A2E2148006F117E /* SettingsViewModel.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		25558C6F2A2E216E006F117E /* PasswordStore */ = {
+			isa = PBXGroup;
+			children = (
+				25558C702A2E217F006F117E /* PasswordsViewModel.swift */,
+				25558C722A2E21E7006F117E /* SavePasswordView.swift */,
+			);
+			path = PasswordStore;
+			sourceTree = "<group>";
+		};
+		2579F3C72A2E070F0032A276 /* Password */ = {
+			isa = PBXGroup;
+			children = (
+				25558C6F2A2E216E006F117E /* PasswordStore */,
+				25558C6C2A2E211B006F117E /* Settings */,
+				25558C6B2A2E2107006F117E /* Generate password */,
+			);
+			path = Password;
 			sourceTree = "<group>";
 		};
 		258FA7C829FC4292002A0EE0 = {
@@ -115,8 +178,8 @@
 		258FA7F129FC4769002A0EE0 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				2579F3C72A2E070F0032A276 /* Password */,
 				258FA7F229FC4780002A0EE0 /* PersonalInformationController.swift */,
-				258FA7F629FC47E0002A0EE0 /* PasswordGeneratorController.swift */,
 				258FA7F429FC47A7002A0EE0 /* PhishingController.swift */,
 			);
 			path = Controllers;
@@ -140,6 +203,8 @@
 			name = CyberProject;
 			packageProductDependencies = (
 				258FA7E929FC4599002A0EE0 /* SnapKit-Dynamic */,
+				2579F3C92A2E0B2C0032A276 /* KeychainSwift */,
+				2579F3CC2A2E0B6B0032A276 /* SwiftUIX */,
 			);
 			productName = CyberProject;
 			productReference = 258FA7D129FC4292002A0EE0 /* CyberProject.app */;
@@ -171,6 +236,8 @@
 			mainGroup = 258FA7C829FC4292002A0EE0;
 			packageReferences = (
 				258FA7E829FC4599002A0EE0 /* XCRemoteSwiftPackageReference "SnapKit" */,
+				2579F3C82A2E0B2C0032A276 /* XCRemoteSwiftPackageReference "keychain-swift" */,
+				2579F3CB2A2E0B6B0032A276 /* XCRemoteSwiftPackageReference "SwiftUIX" */,
 			);
 			productRefGroup = 258FA7D229FC4292002A0EE0 /* Products */;
 			projectDirPath = "";
@@ -201,14 +268,23 @@
 				2524CE8C2A13A18200C8F414 /* PhishingChecker.swift in Sources */,
 				258FA7F329FC4780002A0EE0 /* PersonalInformationController.swift in Sources */,
 				258FA7D929FC4292002A0EE0 /* ViewController.swift in Sources */,
+				2579F3D12A2E0B900032A276 /* PasswordGeneratorView.swift in Sources */,
 				2524CE872A133DB800C8F414 /* UITextField.swift in Sources */,
 				258FA7D529FC4292002A0EE0 /* AppDelegate.swift in Sources */,
 				258FA7ED29FC45B4002A0EE0 /* UILabel.swift in Sources */,
+				25558C752A2E223E006F117E /* StrengthMeterView.swift in Sources */,
 				2524CE892A139C5100C8F414 /* UIButton.swift in Sources */,
+				25558C732A2E21E7006F117E /* SavePasswordView.swift in Sources */,
+				25558C772A2E2296006F117E /* PopView.swift in Sources */,
+				25558C712A2E217F006F117E /* PasswordsViewModel.swift in Sources */,
+				2579F3D32A2E0BA40032A276 /* TextBindingManager.swift in Sources */,
+				2579F3D52A2E0BAD0032A276 /* PasswordStrenghtView.swift in Sources */,
 				258FA7F029FC46E3002A0EE0 /* TabBarViewController.swift in Sources */,
 				258FA7D729FC4292002A0EE0 /* SceneDelegate.swift in Sources */,
 				258FA7F729FC47E0002A0EE0 /* PasswordGeneratorController.swift in Sources */,
+				2579F3CF2A2E0B830032A276 /* PasswordGeneratorViewModel.swift in Sources */,
 				258FA7F529FC47A7002A0EE0 /* PhishingController.swift in Sources */,
+				25558C6E2A2E2148006F117E /* SettingsViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,13 +352,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -330,12 +407,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -418,6 +496,22 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		2579F3C82A2E0B2C0032A276 /* XCRemoteSwiftPackageReference "keychain-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/evgenyneu/keychain-swift.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		2579F3CB2A2E0B6B0032A276 /* XCRemoteSwiftPackageReference "SwiftUIX" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftUIX/SwiftUIX.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.5;
+			};
+		};
 		258FA7E829FC4599002A0EE0 /* XCRemoteSwiftPackageReference "SnapKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/SnapKit/SnapKit";
@@ -429,6 +523,16 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		2579F3C92A2E0B2C0032A276 /* KeychainSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2579F3C82A2E0B2C0032A276 /* XCRemoteSwiftPackageReference "keychain-swift" */;
+			productName = KeychainSwift;
+		};
+		2579F3CC2A2E0B6B0032A276 /* SwiftUIX */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2579F3CB2A2E0B6B0032A276 /* XCRemoteSwiftPackageReference "SwiftUIX" */;
+			productName = SwiftUIX;
+		};
 		258FA7E929FC4599002A0EE0 /* SnapKit-Dynamic */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 258FA7E829FC4599002A0EE0 /* XCRemoteSwiftPackageReference "SnapKit" */;

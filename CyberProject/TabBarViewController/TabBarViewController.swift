@@ -6,15 +6,25 @@
 //
 
 import UIKit
+import SwiftUI
 
 class TabBarViewController: UITabBarController {
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .white
         
+        let settingsViewModel = SettingsViewModel()
+        let passwordListViewModel = PasswordListViewModel()
+
+        let passwordGeneratorView = PasswordGeneratorView(settings: settingsViewModel, passwordViewModel: passwordListViewModel)
+        let passwordController = createTabBar(vc: UIHostingController(rootView: passwordGeneratorView), itemImage: "", itemName: "Password")
+        
+        
          let personalInformationController = createTabBar(vc: PersonalInformationController(), itemImage: "", itemName: "Personal")
          let phishingController = createTabBar(vc: PhishingController(), itemImage: "", itemName: "Phishing")
-         let passwordController = createTabBar(vc: PasswordGeneratorController(), itemImage: "", itemName: "Password")
         
         viewControllers = [personalInformationController, passwordController, phishingController]
     }
