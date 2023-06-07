@@ -1,37 +1,50 @@
-//
-//  PhishingController.swift
-//  CyberProject
-//
-//  Created by Amir Zhunussov on 29.04.2023.
-//
-
 import UIKit
+import SnapKit
 
 class PhishingController: UIViewController {
     
     let phishingChecker = PhishingChecker()
     let urlTextField = UITextField()
     let resultLabel = UILabel()
-    
+    let checkButton = UIButton(type: .system)
+
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        urlTextField.frame = CGRect(x: 20, y: 150, width: self.view.frame.size.width - 40, height: 40)
+        setupViews()
+        setupConstraints()
+    }
+    
+    func setupViews() {
         urlTextField.borderStyle = .roundedRect
         urlTextField.placeholder = "Enter a URL"
         self.view.addSubview(urlTextField)
         
-        
-        resultLabel.frame = CGRect(x: 20, y: 250, width: self.view.frame.size.width - 40, height: 40)
         self.view.addSubview(resultLabel)
         
-        
-        let checkButton = UIButton(type: .system)
-        checkButton.frame = CGRect(x: 20, y: 300, width: self.view.frame.size.width - 40, height: 40)
         checkButton.setTitle("Check URL", for: .normal)
         checkButton.addTarget(self, action: #selector(checkButtonTapped), for: .touchUpInside)
         self.view.addSubview(checkButton)
+    }
+    
+    func setupConstraints() {
+        urlTextField.snp.makeConstraints { (make) in
+            make.top.equalToSuperview().offset(150)
+            make.leading.equalToSuperview().offset(20)
+            make.trailing.equalToSuperview().offset(-20)
+            make.height.equalTo(40)
+        }
+
+        resultLabel.snp.makeConstraints { (make) in
+            make.top.equalTo(urlTextField.snp.bottom).offset(60)
+            make.leading.trailing.equalTo(urlTextField)
+            make.height.equalTo(40)
+        }
+
+        checkButton.snp.makeConstraints { (make) in
+            make.top.equalTo(resultLabel.snp.bottom).offset(20)
+            make.leading.trailing.height.equalTo(urlTextField)
+        }
     }
     
     @objc func checkButtonTapped() {

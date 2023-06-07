@@ -6,6 +6,146 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>645D1FED-14D9-47AD-BE9C-50C372E514EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>645D1FED-14D9-47AD-BE9C-50C372E514EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Add Package</string>
+			<key>timeStartedRecording</key>
+			<real>707824303.47107506</real>
+			<key>timeStoppedRecording</key>
+			<real>707824314.72458303</real>
+			<key>title</key>
+			<string>Add Package</string>
+			<key>uniqueIdentifier</key>
+			<string>645D1FED-14D9-47AD-BE9C-50C372E514EF</string>
+		</dict>
+		<key>80845BEE-D4DE-496A-838E-264A58D66995</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>80845BEE-D4DE-496A-838E-264A58D66995.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>707833526.94350505</real>
+			<key>timeStoppedRecording</key>
+			<real>707833529.13974094</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>80845BEE-D4DE-496A-838E-264A58D66995</string>
+		</dict>
+		<key>848D009A-3886-4FDA-ACA2-6FC786BD645F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>848D009A-3886-4FDA-ACA2-6FC786BD645F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>707820541.81142402</real>
+			<key>timeStoppedRecording</key>
+			<real>707820550.96901798</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>848D009A-3886-4FDA-ACA2-6FC786BD645F</string>
+		</dict>
+		<key>C6C49093-FC9D-44E9-B9FD-DA705864BF81</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>C6C49093-FC9D-44E9-B9FD-DA705864BF81.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>707824319.21540105</real>
+			<key>timeStoppedRecording</key>
+			<real>707824320.54137802</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>C6C49093-FC9D-44E9-B9FD-DA705864BF81</string>
+		</dict>
+		<key>EB4B2D50-55AE-446C-B09B-87937D0F4D09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>EB4B2D50-55AE-446C-B09B-87937D0F4D09.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Add Package</string>
+			<key>timeStartedRecording</key>
+			<real>707833486.38257599</real>
+			<key>timeStoppedRecording</key>
+			<real>707833519.16961098</real>
+			<key>title</key>
+			<string>Add Package</string>
+			<key>uniqueIdentifier</key>
+			<string>EB4B2D50-55AE-446C-B09B-87937D0F4D09</string>
+		</dict>
 		<key>F3BFBDAE-0519-4472-BD0B-206FAFB75BBB</key>
 		<dict>
 			<key>className</key>

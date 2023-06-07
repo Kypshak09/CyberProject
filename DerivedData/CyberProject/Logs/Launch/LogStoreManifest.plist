@@ -6,10 +6,145 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>49FA465D-0F26-4434-9AE8-C9AFCC12B550</key>
+		<key>06762F5E-A52A-408A-B8C8-1D00179DD151</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>558A1CF5-E9A8-4E2D-A0BC-DECD824B6E6F</string>
+			<string>79C1B270-2DB6-44AB-879E-D912F93FE76F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-47-24-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707834844.57168698</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>06762F5E-A52A-408A-B8C8-1D00179DD151</string>
+		</dict>
+		<key>1F7B669F-788F-4163-BFF0-2287593799F9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B47E082D-E349-434A-9BAA-D031D40493DF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-14-24-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707832864.02467299</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>1F7B669F-788F-4163-BFF0-2287593799F9</string>
+		</dict>
+		<key>577C37D3-F488-4FF2-A747-9B99B807AE75</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D98DC979-B91B-4FDE-B156-FEEF84D68893</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-15-42-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707832942.11381996</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>577C37D3-F488-4FF2-A747-9B99B807AE75</string>
+		</dict>
+		<key>6421069E-C4CD-48A8-92EA-DFB7E38D8E0A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7A4535D7-574C-4DA0-B985-AC14337F2311</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -22,7 +157,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-CyberProject-2023.06.06_20-00-00-+0600.xcresult</string>
+			<string>Run-CyberProject-2023.06.07_18-15-53-+0600.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -43,13 +178,373 @@
 			<key>signature</key>
 			<string>Run CyberProject</string>
 			<key>timeStartedRecording</key>
-			<real>707752800.77060401</real>
+			<real>707832953.86652303</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run CyberProject</string>
 			<key>uniqueIdentifier</key>
-			<string>49FA465D-0F26-4434-9AE8-C9AFCC12B550</string>
+			<string>6421069E-C4CD-48A8-92EA-DFB7E38D8E0A</string>
+		</dict>
+		<key>6EA85662-97E6-4F01-9203-375B0C12C067</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>71FD0662-BC0A-445F-BED9-E55F6EBD0F2B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-50-44-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707835044.44117606</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>6EA85662-97E6-4F01-9203-375B0C12C067</string>
+		</dict>
+		<key>7C64CFCA-53EC-44F3-B980-BE33747BBCD2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A77D438F-32FA-428D-9F4C-4E4487F99346</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.06_20-07-03-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707753223.82942295</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>7C64CFCA-53EC-44F3-B980-BE33747BBCD2</string>
+		</dict>
+		<key>83B2EF53-9CC8-4380-BF52-21F46EC40292</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>51A5126D-1E9B-4656-A637-EF16B66D39A2</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-16-21-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707832981.99308503</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>83B2EF53-9CC8-4380-BF52-21F46EC40292</string>
+		</dict>
+		<key>A7E532A3-C3EF-4F43-9CD3-E329F7D8710E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>193836E8-3B29-43A6-B51A-50B01D1FF68B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-52-55-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707835175.47402799</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>A7E532A3-C3EF-4F43-9CD3-E329F7D8710E</string>
+		</dict>
+		<key>D0AB0832-7A25-4180-BE5B-446D66AC3F6D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9191D9ED-E7A5-4FFE-87E6-311B116AA2C0</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_15-24-50-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707822690.10046196</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>D0AB0832-7A25-4180-BE5B-446D66AC3F6D</string>
+		</dict>
+		<key>DCD63571-3FE3-4A25-A7C8-93C292F99DA9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>671A13BC-D28A-4A89-B1F2-95E4E39454AD</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_14-49-21-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707820561.73443401</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>DCD63571-3FE3-4A25-A7C8-93C292F99DA9</string>
+		</dict>
+		<key>E5DF30E1-33DE-4C25-B3E7-F2C1CEC99F49</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A1EAA991-714F-4765-82DA-28F1C28A23E4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-22-14-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707833334.92275703</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>E5DF30E1-33DE-4C25-B3E7-F2C1CEC99F49</string>
+		</dict>
+		<key>FAD402F7-5A8F-4535-B889-0024C54F8718</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>3339F84B-FF56-45EF-B726-4197D25588E5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CyberProject-2023.06.07_18-54-24-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CyberProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CyberProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CyberProject</string>
+			<key>timeStartedRecording</key>
+			<real>707835264.44545603</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CyberProject</string>
+			<key>uniqueIdentifier</key>
+			<string>FAD402F7-5A8F-4535-B889-0024C54F8718</string>
 		</dict>
 	</dict>
 </dict>

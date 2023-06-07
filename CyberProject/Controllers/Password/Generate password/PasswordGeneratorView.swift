@@ -163,7 +163,7 @@ struct PasswordGeneratorView: View {
                         }
                     }
                     
-                    Section(header: Text("Include"), footer: Text("Note: each active parameter reinforces the security of the password.").padding()) {
+                    Section(header: Text("Include").padding()) {
                         
                         Toggle(isOn: $specialCharacters, label: {
                             HStack {
